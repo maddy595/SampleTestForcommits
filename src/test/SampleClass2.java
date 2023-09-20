@@ -21,7 +21,7 @@ public class SampleClass2 {
 //		String destination = System.getProperty("user.dir") + "\\FailedTestsScreenshots\\"+nameofCurrMethod+dateName+".png";
 //		System.out.println(dateName);
 //		System.out.println(destination);
-		System.out.println("Hello World2");
+		System.out.println("Hello World2_Made changes");
 	}
 
 }
